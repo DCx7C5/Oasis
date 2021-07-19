@@ -38,7 +38,7 @@ Decentralized blockchain voting provides for consensus based advancement of the 
 <tr><td>Pos Minimum Depth </td><td>480 Blocks</td></tr>
 <tr><td>Premine</td><td>603,720 OASIS*</td></tr>
 </table>
-
+*Balance at snapshot taken July 15th 2021 at 00:00UTC
 <br>
 ##### Community Donation Fund<br>
 http://explorer.oasisco.in/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
@@ -47,11 +47,12 @@ https://oasis.ccore.online/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
 ### PoS Rewards Breakdown
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>601-1553600</td><td>0.2 OASIS</td><td>75% (0.15 OASIS)</td><td>25% (0.05 OASIS)</td></tr>
-<tr><td>Phase 2</td><td>1553601-3656000</td><td>0.1 OASIS</td><td>75% (0.0725 OASIS)</td><td>25% (0.025 OASIS)</td></tr>
-<tr><td>Phase 3</td><td>3656001-5758400</td><td>0.05 OASIS</td><td>75% (0.0375 OASIS)</td><td>25% (0.0125 OASIS)</td></tr>
-<tr><td>Phase 4</td><td>5758401-7860800</td><td>0.025 OASIS</td><td>75% (0.01875 OASIS)</td><td>25% (0.00625 OASIS)</td></tr>
-<tr><td>Phase 5</td><td>7860801-9963200</td><td>0.0125 OASIS</td><td>75% (0.0075 OASIS)</td><td>25% (0.0025 OASIS)</td></tr>
-<tr><td>Phase 6</td><td>9963201-20000000</td><td>0.00625 OASIS</td><td>75% (0.0075 OASIS)</td><td>25% (0.0025 OASIS)</td></tr>
-<tr><td>Phase 7</td><td>20000001-infinity</td><td>0.003125 OASIS</td><td>75% (0.0075 OASIS)</td><td>25% (0.0025 OASIS)</td></tr>
+<tr><td>Phase 0</td><td>1-600</td><td>0 XOS</td><td>75% (0.15 OASIS)</td><td>25% (0.05 OASIS)</td></tr>
+<tr><td>Phase 1</td><td>601-1553600</td><td>0.2 XOS</td><td>75% (0.15 XOS)</td><td>25% (0.05 XOS)</td></tr>
+<tr><td>Phase 2</td><td>1553601-3656000</td><td>0.1 XOS</td><td>75% (0.0725 XOS)</td><td>25% (0.025 XOS)</td></tr>
+<tr><td>Phase 3</td><td>3656001-5758400</td><td>0.05 XOS</td><td>75% (0.0375 XOS)</td><td>25% (0.0125 XOS)</td></tr>
+<tr><td>Phase 4</td><td>5758401-7860800</td><td>0.025 XOS</td><td>75% (0.01875 XOS)</td><td>25% (0.00625 XOS)</td></tr>
+<tr><td>Phase 5</td><td>7860801-9963200</td><td>0.0125 XOS</td><td>75% (0.0075 XOS)</td><td>25% (0.0025 XOS)</td></tr>
+<tr><td>Phase 6</td><td>9963201-20000000</td><td>0.00625 XOS</td><td>75% (0.0075 XOS)</td><td>25% (0.0025 XOS)</td></tr>
+<tr><td>Phase 7</td><td>20000001-infinity</td><td>0.003125 XOS</td><td>75% (0.0075 XOS)</td><td>25% (0.0025 XOS)</td></tr>
 </table>
